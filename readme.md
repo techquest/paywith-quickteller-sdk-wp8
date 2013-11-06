@@ -1,7 +1,7 @@
 Quickteller Payment SDK for Windows Phone 8
 ===========================================
 
-Nuget Details
+NuGet
 -------------
 http://www.nuget.org/packages/Quickteller.Sdk.Wp8/
 
